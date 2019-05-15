@@ -1,4 +1,14 @@
-/.idea
+target/
+bin/
+logs/
+.idea
+.idea/*
+.settings
+.project
+.classpath
+*.iml
+*.log
+*.gz
+*~
+dependency-reduced-pom
 example.iml
-/target
-dependency-reduced-pom.xml
